@@ -1,7 +1,7 @@
 # 🧰 zools - 基于Python开发的轻量化Windows工具箱
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache-2.0-green)](LICENSE)
 
 一款基于Python开发的轻量化Windows系统工具集合，整合30项常用功能，覆盖系统维护、网络调试、文件操作三大核心场景。
 
