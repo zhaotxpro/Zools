@@ -63,9 +63,9 @@
 2. 右键zools.exe使用管理员打开。
 
 ## 🛠️ 技术架构
-核心框架：Python 3.10 控制台应用程序框架 + 模块化功能架构
-系统接口：Win32API调用(ctypes) / Windows注册表操作(winreg) / WMIC系统命令
-关键依赖：win32api(pywin32) / psutil(进程管理) / cryptography(加密模块)
+- 核心框架：Python 3.10 控制台应用程序框架 + 模块化功能架构
+- 系统接口：Win32API调用(ctypes) / Windows注册表操作(winreg) / WMIC系统命令
+- 关键依赖：win32api(pywin32) / psutil(进程管理) / cryptography(加密模块)
 
 ## 🤝 参与开发
 欢迎提交PR或Issue，开发准则：
