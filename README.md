@@ -58,9 +58,8 @@
 ### 💻环境需求
 - Windows XP 系统及以上
 
-### ⏬快速安装
-1. 使用本软件必须附带原始许可证及版权声明
-2. 修改版本必须明确标识变更记录
-3. 如包含NOTICE文件需保留版权声明
+### ⏬快速使用
+1. 从[发行版](https://github.com/zhaotxpro/zools/releases/tag/alpha)中下载需要的版本。
+2. 右键zools.exe使用管理员打开。
 
    
