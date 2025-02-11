@@ -53,19 +53,14 @@
 29. 系统备份工具（增量/全量）
 30. 快捷关机/重启工具
 
-## 📦 安装 & 使用
+## 📦 使用
 
 ### 环境需求
-- Windows 10/11 系统（x64）
-- Python 3.10+
+- Windows XP 系统及以上
 
 ### 快速安装
-```bash
-# 克隆仓库
-git clone https://github.com/yourusername/zools.git
+1. 使用本软件必须附带原始许可证及版权声明
+2. 修改版本必须明确标识变更记录
+3. 如包含NOTICE文件需保留版权声明
 
-# 安装依赖
-pip install -r requirements.txt
-
-# 运行程序
-python main.py
+   
