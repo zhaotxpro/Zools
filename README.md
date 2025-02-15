@@ -11,7 +11,7 @@
 
 一款基于Python开发的轻量化Windows系统工具集合，整合30项常用功能，覆盖系统维护、网络工具、文件管理、系统配置四大核心场景。
 
-![软件截图](./screenshot.png)
+![软件截图](https://gitee.com/zhaotxpro/zools/raw/master/screenshot.png)
 
 ## 🚀 核心功能
 
