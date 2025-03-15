@@ -1,4 +1,4 @@
-# 🧰 zools - 基于Python开发的轻量化Windows工具箱
+# 🧰 Zools - 基于Python开发的轻量化Windows工具箱
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
